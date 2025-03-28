@@ -6,7 +6,6 @@ import JudgesPanel from "@/components/JudgesPanel";
 import Footer from "@/components/Footer";
 import React from "react";
 import { Hero } from "@/components/demo";
-import { ConfettiCard } from "@/components/ConfettiCard";
 
 export default function Home() {
   return (
