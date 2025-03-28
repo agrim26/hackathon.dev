@@ -7,6 +7,7 @@ A modern, responsive website template for hackathon events built with Next.js, T
 This project was made possible by [21st.dev](https://21st.dev).
 
 Follow [@agrim26](https://x.com/agrim26) on Twitter and check out the [tweet](https://x.com/agrim26/status/1902380730056933431).
+Hosted here: [Website](https://hackathon-dev-pi.vercel.app/)
 
 ## Getting Started
 
